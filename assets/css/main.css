@@ -1,4 +1,4 @@
-@import url("font-awesome.min.css");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
 
 /*
@@ -1337,7 +1337,7 @@
 	}
 
 	form input[type="text"],
-	form input[type="email"]
+	form input[type="email"],
 	input[type="password"],
 	form select,
 	form textarea {
